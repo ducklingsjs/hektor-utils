@@ -1,4 +1,4 @@
-# HEKTOR
+# hektor-utils
 
 Helpfull Esoteric Kind Tool Or Resource
 
@@ -11,6 +11,7 @@ Project scaffolding &amp; dev dependency manager tool
   * editorconfig
   * gitignore
   * scss-lint
+  * jshintrc-es6
 
 * sass
   * mixins
