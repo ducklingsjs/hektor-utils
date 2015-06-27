@@ -1,3 +1,4 @@
+// var overload = require('hektor-utils/js/overload');
 var overload = require('../js/overload');
 
 var testFn = overload({
