@@ -25,5 +25,5 @@ To set config files fron hektor-utils use symlinks, e.g. ``ln -s node_modules/he
   * common stuff
 
 * js
-  * overload
-  * promising
+  * [overload](docs/js/overload.md)
+  * [promising](docs/js/promising.md)
