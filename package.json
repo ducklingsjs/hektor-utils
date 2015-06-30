@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/infinumjs/hektor-utils/issues"
   },
-  "homepage": "https://github.com/infinumjs/hektor-utils"
+  "homepage": "https://github.com/infinumjs/hektor-utils",
+  "dependencies": {
+    "lodash": "^3.10.0"
+  }
 }
